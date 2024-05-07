@@ -1,0 +1,272 @@
+[
+  {
+    "first_name": "Fraser ",
+    "last_name": "Forster ",
+    "position": "Goalkeeper",
+    "kit_number": "20",
+    "nationality": "England",
+    "image": "p40383.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Brandon ",
+    "last_name": "Austin ",
+    "position": "Goalkeeper",
+    "kit_number": "40",
+    "nationality": "England",
+    "image": "p214572.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Alfie ",
+    "last_name": "Whiteman ",
+    "position": "Goalkeeper",
+    "kit_number": "41",
+    "nationality": "England",
+    "image": "p175941.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Guglielmo ",
+    "last_name": "Vicario ",
+    "position": "Goalkeeper",
+    "kit_number": "13",
+    "nationality": "Italy",
+    "image": "p184254.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Emerson ",
+    "last_name": "Royal ",
+    "position": "Defender",
+    "kit_number": "12",
+    "nationality": "Brazil",
+    "image": "p241157.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Cristian ",
+    "last_name": "Romero ",
+    "position": "Defender",
+    "kit_number": "17",
+    "nationality": "Argentina",
+    "image": "p221632.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Ben ",
+    "last_name": "Davies ",
+    "position": "Defender",
+    "kit_number": "33",
+    "nationality": "Wales",
+    "image": "p115556.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Alfie ",
+    "last_name": "Dorrington ",
+    "position": "Defender",
+    "kit_number": "65",
+    "nationality": "England",
+    "image": "p519321.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Pedro ",
+    "last_name": "Porro ",
+    "position": "Defender",
+    "kit_number": "23",
+    "nationality": "Spain",
+    "image": "p441164.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Destiny ",
+    "last_name": "Udogie ",
+    "position": "Defender",
+    "kit_number": "38",
+    "nationality": "Italy",
+    "image": "p487053.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Micky ",
+    "last_name": "van de Ven ",
+    "position": "Defender",
+    "kit_number": "37",
+    "nationality": "Netherlands",
+    "image": "p491279.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Radu ",
+    "last_name": "Dragusin ",
+    "position": "Defender",
+    "kit_number": "6",
+    "nationality": "Romania",
+    "image": "p493125.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Oliver ",
+    "last_name": "Skipp ",
+    "position": "Midfielder",
+    "kit_number": "4",
+    "nationality": "England",
+    "image": "p209042.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Pierre-Emile ",
+    "last_name": "Højbjerg ",
+    "position": "Midfielder",
+    "kit_number": "5",
+    "nationality": "Denmark",
+    "image": "p132015.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Ryan ",
+    "last_name": "Sessegnon ",
+    "position": "Midfielder",
+    "kit_number": "19",
+    "nationality": "England",
+    "image": "p184349.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Pape ",
+    "last_name": "Sarr ",
+    "position": "Midfielder",
+    "kit_number": "29",
+    "nationality": "Senegal",
+    "image": "p482442.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Rodrigo ",
+    "last_name": "Bentancur ",
+    "position": "Midfielder",
+    "kit_number": "30",
+    "nationality": "Uruguay",
+    "image": "p202993.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Yves ",
+    "last_name": "Bissouma ",
+    "position": "Midfielder",
+    "kit_number": "8",
+    "nationality": "Mali",
+    "image": "p227127.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Dejan ",
+    "last_name": "Kulusevski ",
+    "position": "Midfielder",
+    "kit_number": "21",
+    "nationality": "Sweden",
+    "image": "p445044.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "James ",
+    "last_name": "Maddison ",
+    "position": "Midfielder",
+    "kit_number": "10",
+    "nationality": "England",
+    "image": "p172780.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Giovani ",
+    "last_name": "Lo Celso ",
+    "position": "Midfielder",
+    "kit_number": "18",
+    "nationality": "Argentina",
+    "image": "p200826.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Son ",
+    "last_name": "Heung-Min ",
+    "position": "Forward",
+    "kit_number": "7",
+    "nationality": "South Korea",
+    "image": "p85971.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "",
+    "last_name": "Richarlison ",
+    "position": "Forward",
+    "kit_number": "9",
+    "nationality": "Brazil",
+    "image": "p212319.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Jamie ",
+    "last_name": "Donley ",
+    "position": "Forward",
+    "kit_number": "63",
+    "nationality": "England",
+    "image": "p513588.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Bryan ",
+    "last_name": "Gil ",
+    "position": "Forward",
+    "kit_number": "11",
+    "nationality": "Spain",
+    "image": "p436234.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Manor ",
+    "last_name": "Solomon ",
+    "position": "Forward",
+    "kit_number": "27",
+    "nationality": "Israel",
+    "image": "p235674.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Brennan ",
+    "last_name": "Johnson ",
+    "position": "Forward",
+    "kit_number": "22",
+    "nationality": "Wales",
+    "image": "p242898.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Yago ",
+    "last_name": "Santiago ",
+    "position": "Forward",
+    "kit_number": "58",
+    "nationality": "Spain",
+    "image": "p492779.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Dane ",
+    "last_name": "Scarlett ",
+    "position": "Forward",
+    "kit_number": "44",
+    "nationality": "England",
+    "image": "p490145.png",
+    "team": "Tottenham Hotspur"
+  },
+  {
+    "first_name": "Timo ",
+    "last_name": "Werner ",
+    "position": "Forward",
+    "kit_number": "16",
+    "nationality": "Germany",
+    "image": "p165153.png",
+    "team": "Tottenham Hotspur"
+  }
+]
